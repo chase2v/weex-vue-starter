@@ -20,3 +20,8 @@ npm run dev
 ```bash
 open http://127.0.0:8080/qrcode.html
 ```
+
+## 已知问题
+
+*Android端运行良好*
+*IOS端未经过测试*
